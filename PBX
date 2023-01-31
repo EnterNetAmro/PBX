@@ -1,22 +1,6 @@
-/etc/asterisk/sip.conf
-sip show users
 sip show registry
-sip show channels
-sip show channel
-sip show inuse
-sip show peers
-sip show subscriptions
-show switches
-show manager command
-show manager connect
-show parkedcalls
-show dialplan
-show conferences
-iax2 show netstats
-iax2 show stats
-iax show users
-show keys
-pri show span
+sip show users
+/etc/asterisk/sip.conf
 /etc/asterisk/extensions.conf
 /etc/asterisk/http.conf
 /etc/asterisk/manager.conf
